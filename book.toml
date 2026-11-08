@@ -1,0 +1,16 @@
+[book]
+title = "La oración como expresión de la relación con Dios"
+authors = ["Dr. Pablo Eduardo Cancino Marentes"]
+description = "La oración no es una técnica para obtener cosas de Dios, sino la expresión de una relación que Él mismo inició."
+language = "es"
+src = "src"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/PabloeCancino/Libro_Oracion_Relacion_con_Dios"
+edit-url-template = "https://github.com/PabloeCancino/Libro_Oracion_Relacion_con_Dios/edit/main/{path}"
+
+[output.html.search]
+enable = true
+limit-results = 20
