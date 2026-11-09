@@ -184,7 +184,7 @@ El versículo suele omitirse cuando se cita la promesa anterior, y su omisión c
 
 La razón es sencilla. Quien pide al Padre lo hace como hijo, y quien es hijo tiene hermanos. No es posible pedir al Padre desde la intimidad de un hijo mientras se le niega a otro hijo del mismo Padre lo que uno mismo necesita recibir. El Padre nuestro lo había formulado así: «perdónanos nuestras deudas, como también nosotros perdonamos a nuestros deudores» (Mateo 6:12). Quien pide confiando en el perdón del Padre no puede negarlo a otros (véase la parábola del siervo que no perdonó, en la Parte IV).
 
-## 4. La gratitud de quien conoce al Padre: Lázaro
+## 4. La gratitud de quien conoce al Padre: la petición por Lázaro
 
 El ejemplo más claro de esa confianza está ante la tumba de Lázaro. Conviene recordar el contexto, porque la oración de Jesús no aparece en el vacío.
 
