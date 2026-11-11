@@ -148,6 +148,8 @@ El segundo nombra la asimetría: «si hacéis lo que yo os mando». La amistad c
 
 El tercero nombra la marca: «os las he dado a conocer». Ya no es la relación del siervo, que obedece sin saber lo que hace su señor, sino la del amigo, a quien se le confía el propósito. Amistad y conocimiento son, en este pasaje, la misma cosa. Por eso la conclusión de este libro, que se tituló «orar para conocerle», podría haberse titulado también «orar como amigo».
 
+La marca de la amistad tiene, además, una dirección de vuelta. Jesús da a conocer a sus amigos lo que oyó del Padre, y el Espíritu que les da, el que «todo lo escudriña, aun lo profundo de Dios» (1 Corintios 2:10), les abre lo que Dios les ha concedido. Pero el mismo Espíritu da voz, delante de Dios, a lo profundo de ellos: quien ora en el Espíritu «habla misterios» (1 Corintios 14:2), como se dice a un amigo lo que no se dice a nadie más (véase la Parte I, «La oración de comunión»). La amistad con Dios no consiste solo en recibir sus confidencias, sino en poder confiarle las propias, aun aquellas que uno mismo no alcanza a entender.
+
 ### El amigo del esposo
 
 Juan el Bautista se aplicó a sí mismo otra figura de la amistad para explicar su relación con Jesús:
@@ -256,7 +258,7 @@ Esa amistad no se queda en dos. Se extiende a quienes participan de ella:
 > lo que hemos visto y oído, eso os anunciamos, para que también vosotros tengáis comunión con nosotros; y nuestra comunión verdaderamente es con el Padre, y con su Hijo Jesucristo.  
 > **1 Juan 1:3 (RVR1960)**
 
-El versículo tiene dos direcciones a la vez. La comunión con los hermanos («con nosotros») y la comunión con Dios («con el Padre, y con su Hijo») no son dos relaciones separadas, sino una sola que se vive en dos planos. Quien entra en la amistad con Dios entra también en la comunidad de sus amigos. Y la misma carta advierte que no se puede tener una sin la otra:
+El versículo tiene dos direcciones a la vez. La comunión con los hermanos («con nosotros») y la comunión con Dios («con el Padre, y con su Hijo») no son dos relaciones separadas, sino una sola que se vive en dos planos. Quien entra en la amistad con Dios entra también en la comunidad de sus amigos. Juan nombra la comunión con el Padre y con el Hijo; Pablo añade «la comunión del Espíritu Santo» (2 Corintios 13:14). El Espíritu no es un tercero que mira esa amistad desde fuera, sino Aquel en quien se vive: el mismo Espíritu une al creyente con Dios y a los creyentes entre sí, porque «por un solo Espíritu fuimos todos bautizados en un cuerpo» (1 Corintios 12:13). Y la misma carta de Juan advierte que no se puede tener una comunión sin la otra:
 
 > Si alguno dice: Yo amo a Dios, y aborrece a su hermano, es mentiroso. Pues el que no ama a su hermano a quien ha visto, ¿cómo puede amar a Dios a quien no ha visto?  
 > **1 Juan 4:20 (RVR1960)**

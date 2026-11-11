@@ -2,7 +2,7 @@
 
 La oración es la expresión de una relación bidireccional: el ser humano habla a Dios y Dios habla al ser humano. El monólogo no expresa relación; tan solo expresa proyección.
 
-Esta afirmación, sencilla en apariencia, sostiene todo lo que sigue en este libro. Si la oración fuera un ejercicio que se agota en quien lo practica, bastaría una buena técnica para hacerlo bien: concentración, palabras adecuadas, constancia. Pero si la oración es el encuentro de dos, entonces no basta la técnica. Hace falta que el otro exista, que el otro escuche, que el otro responda, y que quien ora esté dispuesto a recibir esa respuesta aunque no sea la que esperaba. Cada una de esas condiciones abre una pregunta, y esta primera parte las recorre en orden: quién es el otro de la oración, qué enseña sobre ella una relación humana sana, cómo pasa la oración de la proyección a la relación, qué la distingue de la manipulación, en qué roles nos coloca, cómo habla Dios y cómo se discierne su voz, y cuáles son los momentos por los que pasa un diálogo verdadero.
+Esta afirmación, sencilla en apariencia, sostiene todo lo que sigue en este libro. Si la oración fuera un ejercicio que se agota en quien lo practica, bastaría una buena técnica para hacerlo bien: concentración, palabras adecuadas, constancia. Pero si la oración es el encuentro de dos, entonces no basta la técnica. Hace falta que el otro exista, que el otro escuche, que el otro responda, y que quien ora esté dispuesto a recibir esa respuesta aunque no sea la que esperaba. Cada una de esas condiciones abre una pregunta, y esta primera parte las recorre en orden: quién es el otro de la oración, qué enseña sobre ella una relación humana sana, cómo pasa la oración de la proyección a la relación, qué la distingue de la manipulación, en qué roles nos coloca, desde dónde se ora, cómo habla Dios y cómo se discierne su voz, y cuáles son los momentos por los que pasa un diálogo verdadero.
 
 ## La primera condición: que el otro exista
 
@@ -293,6 +293,71 @@ Lo mismo vale para la amistad, imagen que este libro usa más adelante, al habla
 
 La amistad que Jesús ofrece no es una amistad entre iguales. Es una amistad que incluye el mandato. Pero eso no la hace menos amistad; la hace amistad con Alguien que es también Señor. La conclusión de este libro mostrará que esa amistad tiene una marca propia, y que el amigo de Dios es aquel a quien Dios le da a conocer lo que hace.
 
+## Orar en el Espíritu
+
+Los roles que enseña el Padre nuestro responden a la pregunta de a quién se ora. Queda otra pregunta, igual de decisiva: desde dónde se ora. El Nuevo Testamento la responde con un versículo que reúne a las tres personas de la relación:
+
+> porque por medio de él los unos y los otros tenemos entrada por un mismo Espíritu al Padre.  
+> **Efesios 2:18 (RVR1960)**
+
+El versículo describe un movimiento con tres direcciones. Se ora *al* Padre: Él es el destinatario, el otro de la oración cuya existencia es su primera condición. Se ora *por medio del* Hijo: Él abre la entrada, y la Parte III mostrará que pedir en su nombre es pedir desde la relación con Él. Y se ora *por un mismo Espíritu*: Él es el ámbito en que la relación se vive desde dentro. Pablo escribe a judíos y gentiles que hasta entonces habían estado separados, y la «entrada» de la que habla es el acceso a la presencia de Dios, ahora abierto a unos y otros por igual.
+
+Este libro no se propone tratar la doctrina del Espíritu Santo, ni las discusiones que la acompañan entre las tradiciones cristianas. Se detiene en lo que la Escritura dice del Espíritu desde el punto de vista que ha guiado todo el recorrido: la relación.
+
+### Alguien, no algo
+
+Hasta aquí el Espíritu ha aparecido por lo que hace: clama «¡Abba, Padre!» en el corazón del hijo (Gálatas 4:6), libra del temor servil (Romanos 8:15), da testimonio a nuestro espíritu (Romanos 8:16). Sería fácil concluir que es una fuerza, o el canal por el que pasa la oración. La Escritura no lo permite. Habla de Él con el lenguaje de la relación:
+
+> Y no contristéis al Espíritu Santo de Dios, con el cual fuisteis sellados para el día de la redención.  
+> **Efesios 4:30 (RVR1960)**
+
+Solo se entristece quien ama. Una fuerza no se contrista; una persona sí, y precisamente cuando aquel con quien está unida la ignora o la hiere. El contexto lo confirma: lo que entristece al Espíritu no es un error ritual, sino la mentira, la ira, la palabra corrompida y la amargura entre hermanos (Efesios 4:25-32). El Espíritu se duele de lo que daña la relación, con Dios y con los demás.
+
+Jesús lo presentó con la misma clave personal. Al anunciar su partida, no prometió a sus discípulos un poder impersonal, sino una compañía:
+
+> Y yo rogaré al Padre, y os dará otro Consolador, para que esté con vosotros para siempre:
+>  
+> el Espíritu de verdad, al cual el mundo no puede recibir, porque no le ve, ni le conoce; pero vosotros le conocéis, porque mora con vosotros, y estará en vosotros.  
+> **Juan 14:16-17 (RVR1960)**
+
+*Otro* Consolador: otro que estaría con ellos como Jesús había estado con ellos.[^paracleto] Y el verbo es el que la conclusión de este libro pondrá en el centro: «vosotros le conocéis». Al Espíritu no se le conoce como se conoce un dato, sino como se conoce a quien «mora con vosotros». Pablo, al despedirse de los corintios, pone esa compañía junto a la gracia del Hijo y el amor del Padre:
+
+> La gracia del Señor Jesucristo, el amor de Dios, y la comunión del Espíritu Santo sean con todos vosotros. Amén.  
+> **2 Corintios 13:14 (RVR1960)**
+
+A cada persona le corresponde una palabra: gracia, amor, comunión. La del Espíritu es la que más directamente nombra la relación. *Comunión* traduce *koinōnía*, la participación compartida, la misma palabra que 1 Juan 1:3 usa para la comunión con el Padre y con el Hijo (véase la conclusión). Orar en el Espíritu es orar en comunión con Alguien que está dentro.
+
+### Dos profundidades
+
+Pablo describe el lugar donde ocurre esa comunión con una comparación tomada de la experiencia humana:
+
+> Pero Dios nos las reveló a nosotros por el Espíritu; porque el Espíritu todo lo escudriña, aun lo profundo de Dios.
+>  
+> Porque ¿quién de los hombres sabe las cosas del hombre, sino el espíritu del hombre que está en él? Así tampoco nadie conoció las cosas de Dios, sino el Espíritu de Dios.
+>  
+> Y nosotros no hemos recibido el espíritu del mundo, sino el Espíritu que proviene de Dios, para que sepamos lo que Dios nos ha concedido,  
+> **1 Corintios 2:10-12 (RVR1960)**
+
+El texto habla de dos profundidades. Hay una profundidad del hombre, que solo conoce «el espíritu del hombre que está en él»: lo que nadie ve desde fuera, y lo que a veces uno mismo apenas alcanza a nombrar. Y hay una profundidad de Dios, que solo conoce el Espíritu de Dios. Pablo no afirma aquí que el Espíritu de Dios sea quien conoce la profundidad humana. Afirma algo más audaz: que ese mismo Espíritu, que escudriña lo profundo de Dios, ha sido dado a quien cree, «para que sepamos lo que Dios nos ha concedido». La profundidad de Dios no queda cerrada; se abre desde dentro.
+
+La otra dirección también está en la Escritura. Lo profundo del hombre no es opaco para Dios. Proverbios lo dice con una imagen: «Lámpara de Jehová es el espíritu del hombre, La cual escudriña lo más profundo del corazón» (Proverbios 20:27). El salmista pide ser examinado: «Examíname, oh Dios, y conoce mi corazón» (Salmo 139:23). Y Pablo, en el mismo capítulo en que el Espíritu intercede con gemidos indecibles, une las dos profundidades en una sola frase: «el que escudriña los corazones sabe cuál es la intención del Espíritu» (Romanos 8:27).
+
+Ahí se encuentran. El Espíritu da testimonio «a nuestro espíritu» (Romanos 8:16): no habla a la superficie de quien ora, sino a su espíritu, al lugar donde nadie más llega. Y el Padre, que escudriña los corazones, conoce lo que el Espíritu pide desde dentro de ellos. La oración en el Espíritu es el lugar donde lo profundo del hombre y lo profundo de Dios se comunican.
+
+El Salmo 42, que esta parte volverá a leer al hablar de la consolación, contiene una frase que muchos han leído como imagen de ese encuentro: «Un abismo llama a otro a la voz de tus cascadas» (Salmo 42:7). En su contexto, el salmista describe aguas que lo cubren, más cerca del lamento que de la comunión, y conviene no forzar su sentido. Pero la imagen dice algo verdadero sobre la relación: hay una hondura que solo responde a otra hondura.
+
+### Intimidad sin confusión
+
+Esta cercanía tiene dos límites que el libro ya conoce.
+
+El primero es la asimetría. Pablo llega a decir que «el que se une al Señor, un espíritu es con él» (1 Corintios 6:17). La frase aparece en un contexto de fidelidad, opuesta a la unión con la ramera (1 Corintios 6:15-16), y podría leerse como fusión. Pero este libro lee la unidad del creyente con Dios como participación, no como identidad (véase la Parte III, a propósito de Juan 17:21). Quien ora en el Espíritu no se disuelve en Dios; es acogido en una comunión que lo precede. La relación sigue siendo de dos, y por eso sigue siendo relación.
+
+El segundo límite protege contra el error opuesto: pensar que esta intimidad es privilegio de unos pocos. El Espíritu no es un premio para los más espirituales; es el don que hace cristiano al cristiano: «si alguno no tiene el Espíritu de Cristo, no es de él» (Romanos 8:9). Toda oración del creyente es, en este sentido, oración en el Espíritu, aunque quien ora no lo advierta. Las formas en que esa comunión se expresa son muchas, y algunas son más visibles que otras; pero ninguna es la medida de la intimidad. La medida es Aquel que mora en quien ora. Es lo mismo que la conclusión dirá del conocimiento de Dios: es don, no logro.
+
+Este libro vuelve sobre esa comunión en varios lugares: al discernir la voz de Dios, en la oración que habla misterios («La oración de comunión», más adelante en esta parte), en el Espíritu que intercede cuando no sabemos qué pedir (Parte III), en la intercesión (Parte IV) y en la amistad que comparte secretos (conclusión).
+
+[^paracleto]: *Consolador* traduce el griego *paráklētos*, el que es llamado a estar al lado de otro para ayudarlo, defenderlo o consolarlo. Jesús lo llama *otro* Consolador porque el primero había sido Él mismo, que estaba con los discípulos; el Espíritu continuaría esa compañía, ahora desde dentro: «estará en vosotros» (Juan 14:17).
+
 ## Dios habla y quien ora escucha
 
 Hasta aquí hemos hablado de lo que el ser humano dice a Dios y de la actitud con que lo dice. Pero un diálogo tiene dos direcciones. Si solo el ser humano habla, por muy bien dispuesto que esté, la relación queda incompleta.
@@ -395,6 +460,8 @@ La actitud que la Escritura pide no es la credulidad ni la sospecha universal, s
 
 Samuel aprendió a reconocer la voz de Dios con la ayuda de Elí. Los profetas de Corinto hablaban, y la comunidad juzgaba. El concilio de Jerusalén llegó a su decisión cuando «ha parecido bien al Espíritu Santo, y a nosotros» (Hechos 15:28). En ningún caso el discernimiento es un asunto puramente individual. Quien cree haber oído a Dios y se niega a que otros lo examinen ya ha dado una señal preocupante.
 
+El mismo capítulo de Corintios aplica este criterio a la oración en lenguas. Pablo pide que, en la asamblea, quien hable en lengua extraña lo haga «por turno; y uno interprete», y que, si no hay intérprete, «hable para sí mismo y para Dios» (1 Corintios 14:27-28). Aun lo que se dice por el Espíritu se somete al orden y a la comprensión de la comunidad. La sección «La oración de comunión», más adelante en esta parte, vuelve sobre este pasaje.
+
 5. **El fruto en el tiempo.** «Por sus frutos los conoceréis» (Mateo 7:16). La palabra que viene de Dios se verifica en su cumplimiento (Deuteronomio 18:21-22).
 
 El tiempo es también un criterio. Lo que viene de Dios produce, con el tiempo, frutos que lo confirman. Lo que no viene de Él termina por mostrar su origen. Este criterio pide paciencia: no siempre es posible saber de inmediato si algo viene de Dios, y a veces solo el tiempo lo aclara.
@@ -425,7 +492,7 @@ Quien dice «Dios me dijo» para zanjar una discusión, para justificar una deci
 
 El Apéndice recoge lo que la antropología ha observado sobre cómo los creyentes aprenden a discernir la voz de Dios.
 
-## Los momentos del diálogo: lamento, silencio y consolación
+## Los momentos del diálogo: lamento, silencio, comunión y consolación
 
 En el diálogo profundo hay diferentes momentos de interacción. La oración de lamento representa el momento de la desnudez del corazón del amigo hacia su confidente. La Escritura describe la relación con Dios con esa misma imagen de amistad:
 
@@ -491,6 +558,63 @@ Que el silencio no es abandono es una afirmación de la fe, no siempre de la exp
 Esta precisión protege contra un uso cruel de la verdad. Decirle a alguien que sufre «Dios no te ha abandonado» puede ser verdadero y, al mismo tiempo, una manera de callarlo. Si quien sufre siente que Dios lo ha abandonado, la Escritura no le pide que finja otra cosa. Le ofrece las palabras del Salmo 22 para que diga exactamente lo que siente, delante de Aquel que parece ausente. Que Jesús mismo las pronunciara en la cruz es la prueba más alta de que esa oración es legítima. El Hijo, que conocía al Padre como nadie, no tuvo reparo en decirle «¿por qué me has desamparado?».
 
 La Escritura contiene incluso un salmo de lamento que no llega a la consolación. El Salmo 88 comienza clamando día y noche delante de Dios (Salmo 88:1) y termina en tinieblas: «Has alejado de mí al amigo y al compañero, y a mis conocidos has puesto en tinieblas» (Salmo 88:18). No hay giro final hacia la alabanza. Y, sin embargo, el salmo está en la Biblia, y empieza llamando a Dios «Dios de mi salvación» (Salmo 88:1). Aun el lamento que no encuentra salida sigue dirigido a Alguien.
+
+### La oración de comunión
+
+Los gemidos indecibles de Romanos 8:26 son la oración del Espíritu cuando quien ora ya no tiene palabras. La Escritura conoce otra forma de oración que tampoco pasa por el entendimiento de quien ora, y conviene no confundirlas. Los gemidos son *indecibles*: no llegan a ser palabra.[^alaletos] Lo que Pablo describe en su primera carta a los corintios sí es habla, aunque quien la pronuncia no la entienda:
+
+> Porque el que habla en lenguas no habla a los hombres, sino a Dios; pues nadie le entiende, aunque por el Espíritu habla misterios.  
+> **1 Corintios 14:2 (RVR1960)**
+
+Este libro no entra en la discusión sobre la vigencia de este don, que las tradiciones cristianas responden de maneras distintas. Se detiene, como en el resto del recorrido, en lo que el texto dice sobre la relación. Y lo que dice es notable.
+
+#### A Dios, no a los hombres
+
+La primera afirmación del versículo es la del destinatario: «no habla a los hombres, sino a Dios». Según el criterio de este libro, eso basta para distinguir esta oración del monólogo. No es un sonido lanzado al vacío ni una exhibición ante los demás; es palabra dirigida a Alguien. Pablo lo repite cuando ordena el culto de Corinto: si no hay quien interprete, el que habla en lenguas «calle en la iglesia, y hable para sí mismo y para Dios» (1 Corintios 14:28).
+
+*Para sí mismo y para Dios.* La frase describe un espacio que este libro ha ido encontrando desde el principio: el de la oración que no se dice para ser oída por otros, sino delante de Uno solo. Es el aposento con la puerta cerrada donde Jesús manda orar al Padre «que está en secreto» (Mateo 6:6); es el corazón de Ana, en el que «solamente se movían sus labios» (1 Samuel 1:13). Es la conversación entre amigos que no necesita testigos.
+
+#### Hablar misterios
+
+La segunda afirmación es la del contenido: «por el Espíritu habla misterios». En el lenguaje de Pablo, *misterio* no es un enigma sin solución, sino algo que estaba oculto y que solo se conoce porque Dios lo da a conocer.[^misterio] En 1 Corintios 2, el Espíritu revela al creyente lo profundo de Dios (véase «Orar en el Espíritu»). En 1 Corintios 14 la dirección se invierte: el mismo Espíritu da voz, delante de Dios, a lo profundo del creyente.
+
+La imagen completa la marca de la amistad que la conclusión desarrolla. El amigo es aquel a quien el otro confía lo que piensa hacer (Génesis 18:17; Juan 15:15), y entre amigos se comunican «dulcemente los secretos» (Salmo 55:14). Aquí los secretos circulan en las dos direcciones. Es, llevada a su forma más íntima, la tesis de esta parte: la oración es una relación bidireccional. Y es también una ventana al misterio que la Introducción leyó en Efesios 5:32, «Grande es este misterio»: la unión en la que dos se conocen sin dejar de ser dos.
+
+#### Una oración que edifica
+
+La tercera afirmación es la del efecto:
+
+> El que habla en lengua extraña, a sí mismo se edifica; pero el que profetiza, edifica a la iglesia.  
+> **1 Corintios 14:4 (RVR1960)**
+
+El versículo suele leerse como un reproche, y no lo es. Pablo no condena que quien ora en lenguas se edifique a sí mismo; distingue esa edificación de la de la iglesia, que en la asamblea pone por delante. Él mismo da gracias porque habla en lenguas «más que todos vosotros» (1 Corintios 14:18), y en la iglesia prefiere hablar «cinco palabras con mi entendimiento» (1 Corintios 14:19). La distinción no es entre una oración buena y otra mala, sino entre dos ámbitos: la asamblea, donde lo que se dice debe servir a otros, y el trato personal con Dios, donde quien ora es edificado.
+
+*Edificar* es una palabra de construcción: levantar una casa. Judas usa la misma imagen y la une a la oración: «edificándoos sobre vuestra santísima fe, orando en el Espíritu Santo» (Judas 20). La oración de comunión es el entorno en que la relación edifica a quien la vive. No construye la relación, que es iniciativa de Dios (Introducción); construye a la persona dentro de la relación.
+
+Conviene añadir lo que este libro ha advertido de toda forma de oración: también esta puede separarse de la relación. Corinto es el ejemplo. Una comunidad que hablaba en lenguas con abundancia estaba dividida, y Pablo coloca el capítulo del amor entre los dos capítulos que dedica a los dones: «Si yo hablase lenguas humanas y angélicas, y no tengo amor, vengo a ser como metal que resuena, o címbalo que retiñe» (1 Corintios 13:1). Las lenguas sin amor son, en el lenguaje de este libro, sonido sin relación.
+
+#### El espíritu y el entendimiento
+
+La tensión más honda del pasaje toca la tesis del libro. Si la oración es diálogo, y el diálogo supone escuchar y discernir, ¿qué lugar tiene una oración que quien la pronuncia no entiende? Pablo se lo pregunta a sí mismo:
+
+> Porque si yo oro en lengua desconocida, mi espíritu ora, pero mi entendimiento queda sin fruto.
+>  
+> ¿Qué, pues? Oraré con el espíritu, pero oraré también con el entendimiento; cantaré con el espíritu, pero cantaré también con el entendimiento.  
+> **1 Corintios 14:14-15 (RVR1960)**
+
+La respuesta no es elegir. Pablo no renuncia a orar con el espíritu, ni lo pone por encima del entendimiento; sostiene los dos. Este libro ha insistido en el entendimiento: contrastar el propio criterio con el de Dios, renovar la mente para comprobar su voluntad (Romanos 12:2), discernir lo que se escucha. 1 Corintios 14 no contradice esa insistencia; la completa. Hay en el ser humano una profundidad que el entendimiento no alcanza, y la relación con Dios llega también hasta ella. Pero esa profundidad no sustituye al entendimiento: quien ora con el espíritu ora también con el entendimiento.
+
+Por eso Pablo pide algo más: «el que habla en lengua extraña, pida en oración poder interpretarla» (1 Corintios 14:13). La oración que nadie entiende no se queda en sí misma; busca ser comprendida. Es el caso límite de la tesis de este libro, y por eso mismo la confirma. Aun la oración que nace de lo más profundo y escapa al entendimiento de quien ora está ordenada al diálogo: se dirige a Dios, se somete al discernimiento de la comunidad (1 Corintios 14:27-29) y pide interpretación. No es la oración que se encierra en una experiencia, sino la que, aun cuando no entiende lo que dice, sigue esperando respuesta.
+
+#### No es la medida de la intimidad
+
+Una última precisión impide que esta oración se convierta en jerarquía. Pablo, que deseaba que todos hablaran en lenguas (1 Corintios 14:5), pregunta en el capítulo anterior: «¿hablan todos lenguas?» (1 Corintios 12:30), y la respuesta que espera es que no. La comunión con el Espíritu es de todo creyente (Romanos 8:9); la oración en lenguas es una de sus expresiones. Quien no ora en lenguas no tiene por ello una relación de segunda, y quien ora en lenguas no tiene por ello una relación superior. Lo que hace íntima la oración no es su forma, sino Aquel a quien se habla y Aquel que habla desde dentro.
+
+El Apéndice recoge un estudio de neuroimagen sobre la oración en lenguas. Sus hallazgos describen lo que ocurre en quien ora; no pueden decidir lo que ocurre en la relación.
+
+[^alaletos]: El adjetivo griego de Romanos 8:26 es *alálētos*, «que no se expresa con palabras». En 1 Corintios 14, en cambio, Pablo habla de *glōssa*, «lengua», y de palabras que se pronuncian aunque no se entiendan: prefiere cinco palabras con entendimiento «que diez mil palabras en lengua desconocida» (1 Corintios 14:19).
+
+[^misterio]: *Mystḗrion* designa en Pablo lo que Dios tenía escondido y ha dado a conocer, como el propósito de incluir a los gentiles en su pueblo (Efesios 3:3-6) o la transformación final de los creyentes (1 Corintios 15:51). En 1 Corintios 14:2 el término se aplica a lo que se dice a Dios por el Espíritu y nadie más entiende.
 
 ### La consolación
 
