@@ -10,6 +10,12 @@ Este manuscrito pasó por una revisión crítica interna que obligó a corregir 
 
 Todavía no ha recibido una revisión teológica externa, y el autor sigue revisándolo durante la lectura. Por eso se publica como **borrador abierto a comentarios**, no como edición final. Si eres teólogo, pastor o lector con formación relevante y encuentras un error doctrinal, exegético o factual, por favor ábrelo como [*Issue*](../../issues).
 
+## Nota sobre el uso de inteligencia artificial
+
+La autoría de esta obra corresponde al Dr. Pablo Eduardo Cancino Marentes. La tesis, la estructura, la postura teológica y la orientación de cada parte son decisiones del autor, quien orientó, revisó y aprobó la totalidad del texto y responde por su contenido.
+
+En la elaboración se utilizó Claude (Anthropic) como asistente de IA en labores de investigación, redacción y corrección editorial, así como en la gestión del repositorio en GitHub. Todas las acciones sugeridas por el asistente de IA fueron examinadas por el autor, que las aceptó, modificó o descartó para mantener la visión de la obra.
+
 ## Qué es este libro
 
 La oración no es una técnica para obtener cosas de Dios, sino la expresión de una relación que Él mismo inició. A partir de la Escritura, este libro recorre el diálogo entre Dios y el ser humano: la escucha, el lamento, la petición confiada y la intercesión, hasta descubrir que el propósito último de orar es conocerle y, un día, verle cara a cara.
