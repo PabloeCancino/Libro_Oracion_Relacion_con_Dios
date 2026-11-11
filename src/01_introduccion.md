@@ -51,6 +51,25 @@ Conviene decir también lo que este libro no pretende. No es un manual de técni
 
 Ese recorrido obliga a enfrentar preguntas difíciles, y no las vamos a esquivar. ¿Qué pasa cuando Dios no responde? ¿Puede la oración cambiar lo que Dios ha decidido? ¿Qué sentido tiene pedir si Dios ya sabe lo que necesitamos? ¿Cómo se distingue la voz de Dios de los propios deseos? ¿Hay un límite para la intercesión? Ninguna de estas preguntas tiene una respuesta fácil, y en algunas la Escritura sostiene tensiones que no conviene resolver demasiado pronto. Lo que sí intentaremos es responderlas desde el mismo principio: la oración como expresión de una relación con Alguien que existe, que habla y que responde.
 
+## Un misterio de relación
+
+Queda por decir qué es, entonces, lo que este libro busca. Al hablar del matrimonio, Pablo cita las palabras del Génesis sobre el hombre y la mujer (Génesis 2:24), y añade algo inesperado:
+
+> Por esto dejará el hombre a su padre y a su madre, y se unirá a su mujer, y los dos serán una sola carne.
+>  
+> Grande es este misterio; mas yo digo esto respecto de Cristo y de la iglesia.  
+> **Efesios 5:31-32 (RVR1960)**
+
+La unión del hombre y la mujer, la relación humana más íntima que conoce la Escritura, encierra un misterio que la sobrepasa: apunta a otra unión, la de Cristo con su iglesia. Pablo no dice que la relación con Dios sea misteriosa porque se parece al matrimonio; dice que el matrimonio es imagen de algo mayor, y que eso mayor es lo que hace grande el misterio.
+
+En el lenguaje de Pablo, *misterio* no es lo que no se puede conocer, sino lo que Dios ha dado a conocer y que, aun conocido, no se agota.[^intro-misterio] Quien ha compartido muchos años con otra persona lo sabe sin necesidad de explicaciones: se puede conocer a alguien durante décadas y seguir descubriéndolo. La intimidad verdadera no disuelve el misterio del otro; lo hace más hondo. La conclusión mostrará que el verbo hebreo que se traduce *conocer* es el mismo que la Escritura usa para la intimidad de los esposos.
+
+Conviene precisar el alcance de la imagen. En Efesios, la esposa es la iglesia, no cada creyente por separado: quien ora vive su relación con Dios como miembro de ese pueblo, no al margen de él. Y la imagen es una analogía: habla de unión, de entrega, de fidelidad y de intimidad, pero no autoriza a trasladar a la relación con Dios todo lo que pertenece a la unión de los esposos. Con esas dos cautelas, ilumina lo que este libro intenta. Los dos que se unen siguen siendo dos: «una sola carne» no borra a ninguno, como la comunión con Dios no disuelve en Él a quien ora (Parte I, «Intimidad sin confusión»). Y la imagen del esposo reaparece en estas páginas: en el amor de Cristo, que «amó a la iglesia, y se entregó a sí mismo por ella» (Efesios 5:25), y en el amigo del esposo, cuya alegría es que la esposa llegue a las bodas (conclusión).
+
+Por eso este libro no intenta teologizar sobre la naturaleza de Dios. No pretende explicar quién es Dios en sí mismo, cuestión que la teología trata con otros instrumentos. Intenta adentrarse en otro misterio, el de una relación: la intimidad entre dos personas, una divina y una humana, que se hablan, se escuchan, callan juntas, se confían secretos y se conocen. Como en todo misterio, el recorrido no termina en una explicación completa, sino en un conocimiento más hondo de Aquel con quien se vive.
+
+[^intro-misterio]: El griego *mystḗrion* designa en Pablo lo que Dios tenía oculto y ha revelado. La Parte I vuelve sobre el término a propósito de la oración en la que, por el Espíritu, se «habla misterios» (1 Corintios 14:2).
+
 ## Dos lectores
 
 Este libro está escrito pensando en dos lectores, que a veces son la misma persona.

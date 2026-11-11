@@ -578,7 +578,7 @@ La primera afirmación del versículo es la del destinatario: «no habla a los h
 
 La segunda afirmación es la del contenido: «por el Espíritu habla misterios». En el lenguaje de Pablo, *misterio* no es un enigma sin solución, sino algo que estaba oculto y que solo se conoce porque Dios lo da a conocer.[^misterio] En 1 Corintios 2, el Espíritu revela al creyente lo profundo de Dios (véase «Orar en el Espíritu»). En 1 Corintios 14 la dirección se invierte: el mismo Espíritu da voz, delante de Dios, a lo profundo del creyente.
 
-La imagen completa la marca de la amistad que la conclusión desarrolla. El amigo es aquel a quien el otro confía lo que piensa hacer (Génesis 18:17; Juan 15:15), y entre amigos se comunican «dulcemente los secretos» (Salmo 55:14). Aquí los secretos circulan en las dos direcciones. Es, llevada a su forma más íntima, la tesis de esta parte: la oración es una relación bidireccional.
+La imagen completa la marca de la amistad que la conclusión desarrolla. El amigo es aquel a quien el otro confía lo que piensa hacer (Génesis 18:17; Juan 15:15), y entre amigos se comunican «dulcemente los secretos» (Salmo 55:14). Aquí los secretos circulan en las dos direcciones. Es, llevada a su forma más íntima, la tesis de esta parte: la oración es una relación bidireccional. Y es también una ventana al misterio que la Introducción leyó en Efesios 5:32, «Grande es este misterio»: la unión en la que dos se conocen sin dejar de ser dos.
 
 #### Una oración que edifica
 
