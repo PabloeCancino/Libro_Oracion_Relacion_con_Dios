@@ -594,6 +594,8 @@ Dios no deja de ser justo para poder perdonar. La justicia no se anula: se paga,
 
 Esto da a toda intercesión humana su verdadero lugar. Cuando oramos por otros, no intentamos que Dios haga una excepción a su justicia: nos unimos a una intercesión que ya existe y que ya pagó su precio. Abraham, Moisés, Abigail y Ester anticiparon, cada uno a su medida, lo que Cristo haría plenamente. Nosotros intercedemos después, desde la intercesión de Cristo.
 
+Y no intercedemos solos tampoco desde dentro. Pablo pide orar «en todo tiempo con toda oración y súplica en el Espíritu», y el mismo versículo termina pidiendo «súplica por todos los santos» (Efesios 6:18): la oración en el Espíritu desemboca en la intercesión. Cristo intercede a la diestra de Dios (Romanos 8:34); el Espíritu intercede en el corazón de quien ora (Romanos 8:26-27). La intercesión humana ocurre entre esas dos intercesiones: sostenida desde arriba por el que pagó el precio, y desde dentro por el que conoce lo profundo de Dios (véase la Parte I, «Orar en el Espíritu»). Por eso el intercesor puede llegar a sentir como Dios siente. No imita desde fuera el corazón de Dios; participa de él por el Espíritu que habita en él.
+
 ### La serpiente levantada
 
 En el desierto, el pueblo habló contra Dios y contra Moisés, y llamó al maná «este pan tan liviano» (Números 21:5). Dios envió serpientes ardientes, y el pueblo reconoció su pecado y pidió intercesión:

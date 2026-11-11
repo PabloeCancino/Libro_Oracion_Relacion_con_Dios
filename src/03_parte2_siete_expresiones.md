@@ -358,6 +358,8 @@ Las siete formas de esta parte son verbales: se dicen. Pero la Escritura guarda 
 
 Esto no contradice la tesis de que la oración es diálogo; la confirma. También hablan la presencia, el gesto, lo que se da y lo que se guarda. Y en cada caso el gesto encuentra respuesta: alguien lo ve, lo interpreta, lo recibe.
 
+Entre la palabra que se entiende y el gesto hay todavía un lugar intermedio, que la Parte I examinó con el nombre de oración de comunión: palabras que quien las pronuncia no entiende, dichas «para sí mismo y para Dios» (1 Corintios 14:28). Tampoco ellas son monólogo, porque tienen destinatario. Lo que esta sección reúne, en cambio, son gestos: oraciones que no llegan a ser palabra y que, sin embargo, alguien sabe leer.
+
 Hay un rasgo que comparten los personajes que aquí reunimos: todos son mujeres. No es una regla de la Escritura, que también conoce silencios masculinos, como el de los amigos de Job (Parte I); es un rasgo de esta selección, y no parece casual: muchas veces se trata de mujeres cuya palabra pública tenía poco peso. Su gesto habló donde su voz no habría sido escuchada, y fue leído por quien sí sabía escuchar.
 
 ### Rizpa: la vigilia

@@ -41,6 +41,8 @@ Esta prioridad de Dios atraviesa la Escritura desde sus primeras páginas. Despu
 
 Lo mismo vale para la oración del creyente. El Nuevo Testamento afirma que aun la posibilidad de llamar a Dios «Padre» es don suyo: es el Espíritu del Hijo quien clama en nuestros corazones «¡Abba, Padre!» (Gálatas 4:6). Y cuando no sabemos qué pedir, no estamos solos en la oración: «el Espíritu mismo intercede por nosotros con gemidos indecibles» (Romanos 8:26). Las Partes I y III vuelven sobre ambos textos.
 
+El Nuevo Testamento reúne esa iniciativa en un solo movimiento: «por medio de él los unos y los otros tenemos entrada por un mismo Espíritu al Padre» (Efesios 2:18). Se ora al Padre, por medio del Hijo, en el Espíritu. Este libro no trata la doctrina de la Trinidad, pero la relación que describe tiene esa forma, y la Parte I se detiene en lo que significa orar en el Espíritu: una comunión en la que lo profundo de quien ora y lo profundo de Dios se encuentran.
+
 Esta es la base de todo lo que sigue. Si la relación la inició Dios, la oración no es un intento humano de alcanzar a un Dios lejano, sino la respuesta de alguien que ya fue alcanzado. Eso no le quita seriedad ni esfuerzo; le quita ansiedad. Quien ora no tiene que construir el puente: tiene que cruzarlo.
 
 ## Lo que este libro no es
@@ -67,7 +69,7 @@ Hay una tercera mirada que este libro reconoce. Las ciencias, en particular la n
 
 Como toda relación verdadera, la relación con Dios tiene muchas expresiones: reconocer quién es el otro, celebrar lo que hace, agradecer lo recibido, ser honesto sobre las propias faltas, depender, interesarse por los demás y rendir la propia voluntad. El libro las recorre en cuatro partes y una conclusión.
 
-La Parte I examina el carácter bidireccional de esa relación. Parte de su primera condición, que el otro exista, y se pregunta qué distingue el diálogo del monólogo y la oración de la manipulación. Se detiene en los roles que enseña el Padre nuestro, en la escucha y su discernimiento, y en los momentos del diálogo: el lamento, el silencio que recibe y la consolación.
+La Parte I examina el carácter bidireccional de esa relación. Parte de su primera condición, que el otro exista, y se pregunta qué distingue el diálogo del monólogo y la oración de la manipulación. Se detiene en los roles que enseña el Padre nuestro, en la oración en el Espíritu, en la escucha y su discernimiento, y en los momentos del diálogo: el lamento, el silencio que recibe, la oración de comunión y la consolación.
 
 La Parte II recorre siete de sus expresiones: la adoración, la alabanza, la acción de gracias, la confesión, la petición, la intercesión y la entrega. Cada una se acompaña de un personaje bíblico que la encarna, y la parte termina con los momentos en que la relación se expresa sin palabras.
 

@@ -28,6 +28,8 @@ El neurocientífico Andrew Newberg y su equipo, en la Universidad de Pensilvania
 
 **Glosolalia (2006).** El tercer estudio examinó a cinco personas mientras oraban en lenguas, y comparó esas imágenes con las tomadas mientras las mismas personas cantaban música religiosa.[^ap-3] Durante la glosolalia disminuyó la actividad en los lóbulos frontales, asociados con el control intencional del lenguaje y de la conducta. Es decir, lo contrario de lo que ocurría en la meditación y en la oración centrante. Newberg señaló que el resultado coincide con lo que los propios participantes describen: la sensación de no estar dirigiendo deliberadamente lo que dicen.
 
+La Parte I («La oración de comunión») recoge lo que la Escritura dice de esta forma de oración. Sería tentador relacionar la disminución de la actividad frontal con la frase de Pablo «mi entendimiento queda sin fruto» (1 Corintios 14:14). La coincidencia es sugerente, pero no es una confirmación: el estudio describe lo que ocurre en el cerebro de cinco personas, no lo que ocurre entre quien ora y Aquel a quien se dirige.
+
 ### Lo que estos estudios sugieren
 
 El hallazgo de conjunto más interesante para este libro no es ninguna región en particular, sino la diferencia entre las prácticas. La meditación sin palabras, la oración centrante con una palabra y la oración en lenguas no producen el mismo patrón; en algunos aspectos producen patrones opuestos. Eso concuerda con algo que el libro sostuvo por razones bíblicas: la oración no es una sola cosa, sino un conjunto de formas y momentos distintos dentro de una relación (Partes I y II). La adoración silenciosa, la petición, el lamento y la escucha no son la misma actividad repetida con distintas palabras.
