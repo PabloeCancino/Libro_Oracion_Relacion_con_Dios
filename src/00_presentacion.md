@@ -10,9 +10,11 @@ Este manuscrito es un **borrador en revisión**. Pasó por una revisión crític
 
 ## Nota sobre el uso de inteligencia artificial
 
-La autoría de esta obra corresponde al Dr. Pablo Eduardo Cancino Marentes. La tesis, la estructura, la postura teológica y la orientación de cada parte son decisiones del autor, quien orientó, revisó y aprobó la totalidad del texto y responde por su contenido.
+La autoría de esta obra corresponde al Dr. Pablo Eduardo Cancino Marentes. La tesis, la estructura, la postura teológica y el enfoque de cada parte son decisiones del autor, quien orientó, revisó y aprobó la totalidad del texto y responde por su contenido.
 
-En la elaboración se utilizó Claude (Anthropic) como asistente de IA en labores de investigación, redacción y corrección editorial, así como en la gestión del repositorio en GitHub. Todas las acciones sugeridas por el asistente de IA fueron examinadas por el autor, que las aceptó, modificó o descartó para mantener la visión de la obra.
+En la elaboración se utilizó Claude (Anthropic) como asistente de IA en labores de investigación, redacción y corrección editorial, así como en la gestión del repositorio en GitHub. Todas las propuestas del asistente fueron examinadas por el autor, que las aceptó, modificó o descartó para mantener la visión de la obra.
+
+En 2026, Anthropic comenzó a incorporar en el texto que genera Claude una marca de agua estadística, imperceptible para el lector, que indica la probable participación del asistente. Por ello, partes de esta obra pueden contenerla. Esa marca concuerda con lo que aquí se declara: según la propia Anthropic, señala colaboración, pero no determina la autoría ni la propiedad del texto.
 
 ## Texto bíblico
 
