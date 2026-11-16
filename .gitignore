@@ -8,6 +8,10 @@
 /dist/
 capitulos.txt
 
+# Proceso editorial (auditorías, pendientes, bitácora): siempre privado,
+# nunca entra a este repositorio
+/proceso/
+
 # Insumos de trabajo: viven fuera del repositorio público
 *.pdf
 *.epub

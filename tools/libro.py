@@ -10,6 +10,7 @@ sitio web), no del orden alfabético de los archivos. Así el libro descargable
 y el sitio nunca pueden quedar en órdenes distintos.
 """
 
+import os
 import re
 import subprocess
 import sys
@@ -103,6 +104,17 @@ def cmd_revisar():
         for patron, motivo in PROHIBIDOS:
             if patron.search(ruta):
                 errores.append(f"'{ruta}' no debería estar en el repositorio: {motivo}")
+
+    # 4b. La carpeta proceso/ (auditorías, pendientes, bitácora) es siempre privada:
+    #     un repositorio público no puede contenerla.
+    en_proceso = [r for r in versionados if r.startswith("proceso/")]
+    if en_proceso:
+        publico = os.environ.get("REPO_PUBLICO", "")
+        msg = f"proceso/ está en el repositorio ({len(en_proceso)} archivo(s)); esa carpeta debe ser siempre privada"
+        if publico == "true":
+            errores.append(msg + " y este repositorio es PÚBLICO")
+        elif publico != "false":
+            avisos.append(msg + ": si este repositorio es o será público, sácala antes")
 
     # 5. Marcas de trabajo pendientes dentro del texto publicado (solo aviso)
     marca = re.compile(r"\[(AUTOR|PENDIENTE|TODO|REVISAR)\b[^\]]*\]")
