@@ -1,11 +1,20 @@
-# Secretos y configuración local
+# Secretos y configuración local — nunca deben subirse al repo
 .env
 .env.*
+*recovery-codes*
 
-# Salida de compilación de mdBook
+# Salida de compilación (mdBook y ebooks)
 /book/
 /dist/
+capitulos.txt
 
-# Archivos de sistema
+# Insumos de trabajo: viven fuera del repositorio público
+*.pdf
+*.epub
+*.azw3
+*.docx
+
+# Archivos de sistema y editor
 .DS_Store
 Thumbs.db
+*.code-workspace
